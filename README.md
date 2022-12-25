@@ -1,4 +1,4 @@
-![logo](https://github.com/Fighter05/Fighter05/blob/main/github-banner.png)
+![logo](https://github.com/Fighter05/Fighter05/blob/main/github%20banner.png)
 <h1> Howdy! 👋, I'm Fight </h1>
 <h4 align="center">Hello, My name is Sitthipon Sinthuwongpusa. You can call me Fight. 
   <br>I'm 3rd-year Software Engineering student, at Thammasat University.</h4>
