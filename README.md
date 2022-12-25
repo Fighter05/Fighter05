@@ -2,6 +2,10 @@
 <h4 align="center">Hello, My name is Sitthipon Sinthuwongpusa. You can call me Fight. 
   <br>I'm 3rd-year Software Engineering student, at Thammasat University.</h4>
 <!-- <p>I'm a backend and DevOps engineering, mostly backend stuff, ambitious software engineering. I love to collaborate with others. At this time I'm looking for a part-time job please contact me if you are interesting I hope experience and skill are exactly what you are looking for.</p> -->
+
+- 🌱 I’m currently learning **ReactJS**
+
+- 📫 How to reach me **sitthipon.sint@gmail.com**
 <h2>Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/sitthipon-sinthuwongpusa-830166256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sitthipon sinthuwongpusa" height="30" width="40" /></a>
