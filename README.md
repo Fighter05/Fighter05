@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **sitthipon.sint@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vzWsLrvoiJcncL_Syqtsfj94sTH7H7NH/view?usp=sharing](https://drive.google.com/file/d/1vzWsLrvoiJcncL_Syqtsfj94sTH7H7NH/view?usp=sharing)
-
 <h2 align="left">Contact</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/sitthipon-sinthuwongpusa-830166256/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
