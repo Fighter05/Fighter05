@@ -4,7 +4,8 @@
   <br>I'm 3rd-year Software Engineering student, at Thammasat University.</h4>
 <!-- <p>I'm a backend and DevOps engineering, mostly backend stuff, ambitious software engineering. I love to collaborate with others. At this time I'm looking for a part-time job please contact me if you are interesting I hope experience and skill are exactly what you are looking for.</p> -->
 
-<img src = "https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width = "400" alt = "coding" align = "right">
+<img src = "https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width = "300" alt = "coding" align = "right">
+<!-- <img src = "https://komarev.com/ghpvc/?username=your-github-fighter05" alt = "viewcounter" align = "left"> -->
 
 - 🌱 I’m currently learning **ReactJS**
 
