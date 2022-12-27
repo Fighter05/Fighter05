@@ -8,7 +8,12 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
+- 👨‍💻 All of my projects are available at [https://fighter05.github.io/myPortfolio-react/](https://fighter05.github.io/myPortfolio-react/)
+
 - 📫 How to reach me **sitthipon.sint@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vzWsLrvoiJcncL_Syqtsfj94sTH7H7NH/view?usp=sharing](https://drive.google.com/file/d/1vzWsLrvoiJcncL_Syqtsfj94sTH7H7NH/view?usp=sharing)
+
 <h2>Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/sitthipon-sinthuwongpusa-830166256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sitthipon sinthuwongpusa" height="30" width="40" /></a>
