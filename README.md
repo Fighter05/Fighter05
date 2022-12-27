@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://fighter05.github.io/myPortfolio-react/](https://fighter05.github.io/myPortfolio-react/)
+- 👨‍💻 All of my projects are available at https://github.com/Fighter05?tab=repositories
 
 - 📫 How to reach me **sitthipon.sint@gmail.com**
 
@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/sitthipon-sinthuwongpusa-830166256/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://www.facebook.com/profile.php?id=100001974973986" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook"/></a>
 <a href="https://www.instagram.com/fight.sint/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/></a>
-<a href="https://github.com/Fighter05" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<!-- <a href="https://github.com/Fighter05" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a> -->
   </p>
 
 <h2 align="left">Programming Skills</h2>
