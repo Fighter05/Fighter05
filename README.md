@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at https://github.com/Fighter05?tab=repositories
+- 👨‍💻 All of my projects are available at <br> [https://github.com/Fighter05?tab=repositories](https://github.com/Fighter05?tab=repositories)
 
 - 📫 How to reach me **sitthipon.sint@gmail.com**
 
