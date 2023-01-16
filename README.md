@@ -51,7 +51,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fighter05&&theme=dark" alt="fighter05" /></p>
 
 <h2 align="left">Github Stats:</h2>
-<p><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=fighter05&show_icons=true&locale=en&theme=dark" alt="fighter05" /></p>
+<p><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=fighter05" alt="fighter05" /></p>
 
 <!--
 **Fighter05/Fighter05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
