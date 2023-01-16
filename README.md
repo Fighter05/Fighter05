@@ -31,10 +31,11 @@
   <a href="/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a> 
 </p>
 
-<h2 align="left">Frameworks</h2>
+<h2 align="left">Frameworks and Libraries</h2>
 <p align="left"> 
   <a href="/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> </a> 
   <a href="/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter"/> </a>
+  <a href="/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> </a>
 </p>
 
 <h2 align="left">Tools</h2>
@@ -45,12 +46,12 @@
   <a href="/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="adobeps"/> </a> 
 </p>
 
-<!-- <h2 align="left">Most Used Lauguages & Streak Stats:</h2>
+<h2 align="left">Most Used Lauguages & Streak Stats:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fighter05&show_icons=true&locale=en&layout=compact&theme=dark" alt="fighter05" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fighter05&&theme=dark" alt="fighter05" /></p>
 
 <h2 align="left">Github Stats:</h2>
-<p><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=fighter05&show_icons=true&locale=en&theme=dark" alt="fighter05" /></p> -->
+<p><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=fighter05&show_icons=true&locale=en&theme=dark" alt="fighter05" /></p>
 
 <!--
 **Fighter05/Fighter05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
