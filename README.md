@@ -1,7 +1,6 @@
 ![logo](https://github.com/Fighter05/Fighter05/blob/main/github%20banner.png)
 <h1> Howdy! 👋, I'm Fight </h1>
-<h4 align="center">Hello, My name is Sitthipon Sinthuwongpusa. You can call me Fight. 
-  <br>I'm 3rd-year Software Engineering student, at Thammasat University.</h4>
+<h4 align="center">Hello, My name is Sitthipon Sinthuwongpusa. You can call me Fight.</h4>
 <!-- <p>I'm a backend and DevOps engineering, mostly backend stuff, ambitious software engineering. I love to collaborate with others. At this time I'm looking for a part-time job please contact me if you are interesting I hope experience and skill are exactly what you are looking for.</p> -->
 
 <img src = "https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width = "300" alt = "coding" align = "right">
